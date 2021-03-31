@@ -35,3 +35,6 @@ class BlogOptionsTableSeeder extends Seeder
         }
     }
 }
+
+
+
